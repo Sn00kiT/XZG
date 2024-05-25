@@ -39,7 +39,7 @@
     "esp": {
       "fr": {
         "msg": "Dadurch werden ALLE Einstellungen gelöscht.",
-        "tt": "WARNUNG DAS GERÄT WIRD AUF WERKSEINSTELLUNG ZURÜCKGESETZT"
+        "tt": "WARNUNG DAS GERÄT WIRD AUF WERKSEINSTELLUNG ZURÜCKGESETZT!!!"
       },
       "fu": {
         "fri": "Firmware-Informationen werden abgerufen...",

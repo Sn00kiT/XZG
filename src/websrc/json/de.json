@@ -20,12 +20,12 @@
     "proj": "Erstellt mit ❤️ von",
     "save": "Speichern",
     "sure": "Ich bin sicher",
-    "user": "Nutzername",
+    "user": "Benutzername",
     "ok": "OK",
     "connecting": "Verbinden",
     "dis": "Deaktiviert",
     "disconn": "Getrennt",
-    "en": "Ermöglicht",
+    "en": "Verfügbar",
     "err": "Fehler",
     "nc": "Keine Verbindung",
     "cl": "Schließen",
@@ -134,9 +134,9 @@
       "led": {
         "desc": "LED-Konfiguration",
         "dis": "Vollständige Deaktivierung",
-        "mode": "Arbeitsmodus-LED",
+        "mode": "Zustands-LED",
         "night": "Nachtmodus – zeitbasierte LED-Steuerung",
-        "pwr": "Power LED"
+        "pwr": "Betriebs-LED"
       },
       "ntp": {
         "desc": "NTP-Konfiguration",
@@ -191,7 +191,7 @@
         "tt": "Geben Sie das Passwort Ihres Brokers ein"
       },
       "port": {
-        "n": "Hafen",
+        "n": "Port",
         "ph": "MQTT-Portnummer",
         "tt": "Geben Sie die Portnummer ein (normalerweise 1883)"
       },
@@ -205,7 +205,7 @@
         "tt": "Geben Sie den Benutzernamen Ihres Brokers ein"
       },
       "reconnect": {
-        "n": "Wieder verbinden",
+        "n": "Erneut verbinden",
         "ph": "Wiederverbindungsintervall in Sekunden",
         "tt": "Geben Sie einen schnellen Versuch ein, die Verbindung zum Broker wiederherzustellen (in Sekunden)."
       }
@@ -235,7 +235,7 @@
         "cs": "Kerne",
         "dm": "Gerätemodell",
         "ef": "Prozessor",
-        "efs": "Speicherkapazität",
+        "efs": "Gesamte Speicherkapazität",
         "ehs": "Aktuell verwendeter Speicher",
         "et": "Temperatur",
         "kb": "KiB",
@@ -306,7 +306,7 @@
       "fb": "Dateibrowser",
       "fm": "Flash-Modus",
       "fn": "Dateiname",
-      "fr": "Werkseinstellungen zurückgesetzt",
+      "fr": "Auf Werkseinstellungen zurücksetzen",
       "fu": "Firmware Update",
       "ilfg": "Neueste Version installieren",
       "lb": "blinkt...",
@@ -384,17 +384,17 @@
       },
       "cm": {
         "l": "Treten Sie der Telegram-Gruppe bei",
-        "m": "Ihre Erkenntnisse, Ihr Feedback und Ihre Zusammenarbeit sind für uns von unschätzbarem Wert 🤝",
+        "m": "Ihre Erkenntnisse, Ihr Feedback und Ihre Zusammenarbeit sind uns sehr wichtig 🤝",
         "t": "Gemeinschaft"
       },
       "f": {
         "l": "Kontaktieren Sie den Autor",
-        "m": "Wenn Sie Ideen oder Vorschläge haben oder auf andere Weise helfen möchten, zögern Sie bitte nicht: 📬",
+        "m": "Wenn Sie Ideen oder Vorschläge haben oder auf andere Weise helfen möchten, freuen wir uns jederzeit über eine Rückmeldung: 📬",
         "t": "Rückmeldung"
       },
       "l1": "Die XZG-Firmware vereint die besten Teile der Entwicklung von",
-      "l2": "früheren Zigbee-Gateway-Projekten in einer einzigen komninierten Lösung.",
-      "l3": "Indem XZG die Bemühungen der Community auf die Verbesserung eines Produkts konzentriert, zielt es darauf ab, die Entwicklung zu rationalisieren und dadurch die Fähigkeiten und Effizienz Ihrer Zigbee-Gateways zu verbessern. \n🌍",
+      "l2": "früheren Zigbee-Gateway-Projekten in einer einzigen kombinierten Lösung.",
+      "l3": "Indem XZG die Bemühungen der Community auf die Verbesserung eines Produkts konzentriert, zielt es darauf ab, die Entwicklung zu voranzutreiben und dadurch die Funktion und Stabilität Ihrer Zigbee-Gateways zu verbessern. \n🌍",
       "r": {
         "l": "Melden Sie ein Problem",
         "m": "Um einen Fehler zu melden oder eine Funktion anzufordern, gehen Sie bitte wie folgt vor: 🐞",
